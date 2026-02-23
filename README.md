@@ -15,4 +15,4 @@ What I've learnt:
 - **DOM Manipulation:** resultDiv.style.display toggled the appearance of the final volume at the bottom of the calculator once the calculation was complete
 
 
-**Link to live site:** https://chloeviolet.github.io/veterinary-dosage-calculator/
+**Link to live site:** https://chloecassie.github.io/veterinary-dosage-calculator/
